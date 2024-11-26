@@ -1,0 +1,13 @@
+body {
+  font-family: 'DM Sans' !important;
+  height: 100vh;
+  margin: 0px;
+}
+
+.cursor-pointer{
+  cursor: pointer;
+}
+
+.v-input__control.v-text-field__details{
+  display: none !important;
+}
